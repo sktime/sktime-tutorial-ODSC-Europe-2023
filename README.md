@@ -7,7 +7,13 @@ This tutorial is about [sktime] - a unified framework for machine learning with 
 
 `sktime` is easily extensible by anyone, and interoperable with the pydata/numfocus stack.
 
-This `sktime` tutorial explains TODO TOPIC
+This is an introductory `sktime` half-day tutorial with:
+
+* a general introduction to `sktime`
+* forecasting with `sktime` - uni/multivariate, hierarchical/global
+* feature extraction, transformation pipelines, parameter tuning, autoML
+* engineering topics: interfaces, estimator and dependency management, writing `sktime` compatible 3rd party estimators
+* deploying `sktime` in production using `mlflow` with the `mlflavours` plugin
 
 [sktime]: https://sktime.net
 
@@ -37,7 +43,17 @@ Please let us know on the [sktime discord](https://discord.com/invite/54ACzaFsn7
 
 ## :bulb: Description
 
-TODO ABSTRACT
+This tutorial presents [sktime] - a unified framework for machine learning with time series. sktime covers multiple time series learning problems, including time series transformation, classification and forecasting, among others.`sktime` allows you to easily apply an algorithm for one task to solve another (e.g. a scikit-learn regressor to solve a forecasting problem). In the tutorial, you will learn about how you can identify these problems, what their key differences are and how they are related.
+
+`sktime` provides various time series algorithms and modular composition tools for pipelining, ensembling and tuning.
+`sktime` also provides API compatible interfaces to many popular libraries, such as `statsmodels`, `prophet`, `statsforecast`, `tslearn`, `tsfresh`, etc,
+which can be readily combined using `sktime` composition patterns.
+
+In this tutorial, you will learn how to use, combine, tune and evaluate different algorithms on real-world data sets.
+The tutorial consists of step-by-step using Jupyter Notebooks.
+
+`sktime` not just a package, but also an active community which aims to be welcoming to new joiners.
+We invite anyone to get involved as a developer, user, supporter (or any combination of these).
 
 ## :movie_camera: Other Video Tutorials:
 
