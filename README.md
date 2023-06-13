@@ -50,12 +50,14 @@ The tutorial consists of step-by-step using Jupyter Notebooks.
 `sktime` not just a package, but also an active community which aims to be welcoming to new joiners.
 We invite anyone to get involved as a developer, user, supporter (or any combination of these).
 
-## :movie_camera: Other Video Tutorials:
+## :movie_camera: Other Tutorials:
 
-- [Pydata 2022 - How to implement your own estimator in sktime](https://www.youtube.com/watch?v=S_3ewcvs_pg)
+- [Pydata Berlin 2022 - Advanced Forecasting Tutorial](https://www.youtube.com/watch?v=4Rf9euAhjNc)
 
-- [Pydata London 2022 - Advanced Forecasting Tutorial](https://www.youtube.com/watch?v=4Rf9euAhjNc)
-- 
+- [Pydata London 2022 - How to implement your own estimator in sktime](https://www.youtube.com/watch?v=S_3ewcvs_pg)
+
+- [Pydata Global 2022 - Feature extraction, Pipelines, Tuning](https://github.com/sktime/sktime-tutorial-pydata-global-2022)
+
 - [Pydata London 2023 - Time Series Classification, Regression, Distances & Kernels](https://github.com/sktime/sktime-tutorial-pydata-london-2023)
 
 ## :wave: How to contribute
