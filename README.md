@@ -77,7 +77,7 @@ To run the notebooks locally, you will need:
 
 To clone the repository locally:
 
-`git clone https://github.com/sktime/sktime-tutorial-pydata-london-2023.git`
+`git clone https://github.com/sktime/sktime-tutorial-ODSC-Europe-2023.git`
 
 ### Using conda env
 
