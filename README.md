@@ -19,11 +19,6 @@ This is an introductory `sktime` half-day tutorial with:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sktime/sktime-tutorial-pydata-london-2022/main)
 
-Also recommended:
-
-:movie_camera: **[general sktime intro tutorial](https://github.com/sktime/sktime-tutorial-pydata-global-2021) from PyData Global 2021**\
-:tv: [youtube video of sktime intro at PyData Global 2021](https://www.youtube.com/watch?v=ODspi8-uWgo)
-
 ## :rocket: How to get started
 
 In the tutorial, we will move through notebooks section by section.
@@ -57,11 +52,11 @@ We invite anyone to get involved as a developer, user, supporter (or any combina
 
 ## :movie_camera: Other Video Tutorials:
 
-- [PyData 2021 - Intro to sktime](https://www.youtube.com/watch?v=ODspi8-uWgo)
-
 - [Pydata 2022 - How to implement your own estimator in sktime](https://www.youtube.com/watch?v=S_3ewcvs_pg)
 
-- [Pydata 2022 - Advanced Forecasting Tutorial](https://www.youtube.com/watch?v=4Rf9euAhjNc)
+- [Pydata London 2022 - Advanced Forecasting Tutorial](https://www.youtube.com/watch?v=4Rf9euAhjNc)
+- 
+- [Pydata London 2023 - Time Series Classification, Regression, Distances & Kernels](https://github.com/sktime/sktime-tutorial-pydata-london-2023)
 
 ## :wave: How to contribute
 
