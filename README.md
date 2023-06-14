@@ -84,7 +84,7 @@ To clone the repository locally:
 1. Create a python virtual environment:
 `conda create -y -n odsc_sktime python=3.9`
 2. Install required packages:
-`conda install -y -n odsc_sktime pip sktime seaborn jupyter pmdarima`
+`conda install -y -n odsc_sktime pip sktime seaborn jupyter pmdarima statsmodel`
 3. Activate your environment:
 `conda activate odsc_sktime`
 4. If using jupyter: make the environment available in jupyter:
@@ -97,6 +97,6 @@ To clone the repository locally:
 2. Activate your environment:
 `source odsc_sktime/bin/activate`
 3. Install the requirements:
-`pip install sktime seaborn jupyter pmdarima`
+`pip install sktime seaborn jupyter pmdarima statsmodel`
 4. If using jupyter: make the environment available in jupyter:
 `python -m ipykernel install --user --name=odsc_sktime`
