@@ -93,9 +93,9 @@ To clone the repository locally:
 ### Using python venv
 
 1. Create a python virtual environment:
-`python -m venv .venv`
+`python -m venv odsc_sktime`
 2. Activate your environment:
-`source .venv/bin/activate`
+`source odsc_sktime/bin/activate`
 3. Install the requirements:
 `pip install sktime seaborn jupyter pmdarima`
 4. If using jupyter: make the environment available in jupyter:
