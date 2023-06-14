@@ -82,21 +82,21 @@ To clone the repository locally:
 ### Using conda env
 
 1. Create a python virtual environment:
-`conda create -y -n pydata_sktime python=3.9`
+`conda create -y -n odsc_sktime python=3.9`
 2. Install required packages:
-`conda install -y -n pydata_sktime pip sktime seaborn jupyter pmdarima`
+`conda install -y -n odsc_sktime pip sktime seaborn jupyter pmdarima`
 3. Activate your environment:
-`conda activate pydata_sktime`
+`conda activate odsc_sktime`
 4. If using jupyter: make the environment available in jupyter:
-`python -m ipykernel install --user --name=pydata_sktime`
+`python -m ipykernel install --user --name=odsc_sktime`
 
 ### Using python venv
 
 1. Create a python virtual environment:
-`python -m venv .venv`
+`python -m venv odsc_sktime`
 2. Activate your environment:
-`source .venv/bin/activate`
+`source odsc_sktime/bin/activate`
 3. Install the requirements:
 `pip install sktime seaborn jupyter pmdarima`
 4. If using jupyter: make the environment available in jupyter:
-`python -m ipykernel install --user --name=pydata_sktime`
+`python -m ipykernel install --user --name=odsc_sktime`
