@@ -17,7 +17,7 @@ This is an introductory `sktime` half-day tutorial with:
 
 [sktime]: https://sktime.net
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sktime/sktime-tutorial-pydata-london-2022/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sktime/sktime-tutorial-ODSC-Europe-2023/main)
 
 ## :rocket: How to get started
 
